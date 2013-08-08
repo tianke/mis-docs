@@ -1,6 +1,6 @@
 title: 项目工场开发工程师 - Back-end - PHP
 date: 2013-06-18 11:39:25
-tags:
+tags: PHP Symfony Laravel Composer Bundle
 ---
 
 # PHP
@@ -26,14 +26,19 @@ PHP相关介绍：
 2. xDebug，调试工具
 
 ## 标准开发框架
-1. Laravel > 4.0.0
-
-## PHP 5.3 关键新特性
-1. 命名空间
-2. 闭包函数
+1. Symfony > 2.3
+2. Laravel > 4.0
 
 ## Composer 的使用
 
 ### 安装
 参考地址：http://getcomposer.org/doc/00-intro.md
 建议使用Globally安装方式：http://getcomposer.org/doc/00-intro.md#globally
+
+### Symfony 常用第三方包
+
+"friendsofsymfony/user-bundle": "~2.0@dev",
+"friendsofsymfony/rest-bundle": "0.13.*@dev",
+"jms/serializer-bundle": "0.12.*@dev",
+"knplabs/knp-paginator-bundle": "dev-master",
+"jms/serializer": "0.13.*@dev"

@@ -1,6 +1,6 @@
 title: 项目工场开发工程师 - Tools - git
 date: 2013-06-18 11:39:35
-tags:
+tags: git sourcetree github bitbucket
 ---
 
 # git

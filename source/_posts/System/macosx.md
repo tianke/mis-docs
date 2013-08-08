@@ -1,6 +1,9 @@
 title: 项目工场开发工程师 - System - Max OS X
 date: 2013-06-18 11:39:31
-tags: Mac Terminal homebrew
+tags:
+    - Mac
+    - Terminal
+    - homebrew
 ---
 
 # MacOS x

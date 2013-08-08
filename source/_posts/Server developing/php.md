@@ -1,6 +1,11 @@
 title: 项目工场开发工程师 - Back-end - PHP
 date: 2013-06-18 11:39:25
-tags: PHP Symfony Laravel Composer Bundle
+tags: 
+    - PHP
+    - Symfony
+    - Laravel
+    - Composer
+    - Bundle
 ---
 
 # PHP
@@ -32,13 +37,13 @@ PHP相关介绍：
 ## Composer 的使用
 
 ### 安装
-参考地址：http://getcomposer.org/doc/00-intro.md
-建议使用Globally安装方式：http://getcomposer.org/doc/00-intro.md#globally
+1. 参考地址：http://getcomposer.org/doc/00-intro.md
+2. 建议使用Globally安装方式：http://getcomposer.org/doc/00-intro.md#globally
 
 ### Symfony 常用第三方包
 
-"friendsofsymfony/user-bundle": "~2.0@dev",
-"friendsofsymfony/rest-bundle": "0.13.*@dev",
-"jms/serializer-bundle": "0.12.*@dev",
-"knplabs/knp-paginator-bundle": "dev-master",
-"jms/serializer": "0.13.*@dev"
+1. friendsofsymfony/user-bundle
+2. friendsofsymfony/rest-bundle
+3. jms/serializer-bundle
+4. knplabs/knp-paginator-bundle
+5. jms/serializer
